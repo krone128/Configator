@@ -1,0 +1,2 @@
+# Configator
+Fast json configs
